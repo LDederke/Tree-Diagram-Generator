@@ -1,6 +1,7 @@
 # -- coding: UTF-8 -*-
 
-import arcpy
+import geopandas as gpd
+from shapely.geometry import LineString, Polygon
 import os
 
 
