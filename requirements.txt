@@ -1,0 +1,6 @@
+# Install the required packages with:
+# python3 -m pip install -r dessisiontree/requirements.txt
+
+pandas==2.1.4
+geopandas==0.14.1
+shapely==2.0.2

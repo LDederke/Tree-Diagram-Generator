@@ -1,0 +1,7 @@
+Project name: Testproject
+Projectpath: C:\Users\MyPath\MyPriject
+Path of the Excel file: C:\Users\MyPath\MyData.xlsx
+Box size (height, width): 3, 6
+Box spacing: 2
+Level spacing: 6
+Box size upper Level in %: 160
