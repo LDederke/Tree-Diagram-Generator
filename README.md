@@ -4,4 +4,4 @@ You can set various input parameter such as the box size, the distance between e
 
 The diagram export as .svg may follow sometime.
 
-<img src="images\Overview.jpg">
+<img src="images\Overview.png">
