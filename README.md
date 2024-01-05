@@ -1,5 +1,7 @@
-This script is a tool to create Tree Diagrams freom .xlsx tabels. By chousing colunms in a specific oder you can set the oder of the levels in the diagram. The script will than get all possible combinations of values/attributs to create branches, count the number of records per branch for each level and create a .csv tabel with an overview of wich data record are sortet to each branch. The tree diagram is exported as shapefile wich you can show, label and redisigne in any GIS-software like Q-GIS (free open-source). This can be usefull to either show your data to someone else, get a quick overview on your data or chouse a sample dataset with secial distribution. 
+This script is a tool to create Tree Diagrams from .xlsx tables. By choosing columns in a specific order, you can set the order of the levels in the diagram. The script will then get all possible combinations of values/attributes to create branches, count the number of records per branch for each level and create a .csv table with an overview of which data record are sorted to each branch. The tree diagram is exported as Shapefile which you can show, label and redesign in any GIS-software e.g. Q-GIS (free open-source). This can be useful to either show your data to someone else, get a quick overview on your data, or choose a sample dataset with special distribution. 
 
-You can set warios input parameter such as the boxsize, the distance between each box and to the upper level and the boxsize of the upper level in %.
+You can set various input parameter such as the box size, the distance between each box and the upper level and the box size of the upper level in "%".
 
-<img src="images\Overview.jpg" width="500">
+The diagram export as .svg may follow sometime.
+
+<img src="images\Overview.jpg">
